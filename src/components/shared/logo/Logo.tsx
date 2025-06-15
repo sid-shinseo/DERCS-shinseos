@@ -1,4 +1,4 @@
-import logoCrop from "@/assets/logo-crop.png"
+import logoCrop from "@/assets/logo.png"
 
 interface LogoProps {
     className?: string
